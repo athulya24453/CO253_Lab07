@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685006721 source:d:\e19\sem4\co253 - programming for ee students\labs\lab07\q01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

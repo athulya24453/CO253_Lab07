@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685002754 source:d:\e19\sem4\co253 - programming for ee students\labs\lab07\q2\main.c
+	<assert.h>
+	<ctype.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
